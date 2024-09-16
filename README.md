@@ -30,7 +30,7 @@
     </section>
     <section id="contact">
         <h2>Contact Me</h2>
-        <p>Email: yourname@example.com</p>
+        <p>Email: ahenkanhayford@gmail.com</p>
     </section>
 </body>
 </html>
